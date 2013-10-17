@@ -1,3 +1,0 @@
-tekst
-tekst2
-tekst3
